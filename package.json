@@ -1,5 +1,5 @@
 {
-  "name": "ziu-eslint-config",
+  "name": "eslint-config-ziu",
   "version": "1.0.0",
   "description": "ziu eslint配置",
   "main": "lib/index.js",
