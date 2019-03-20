@@ -1,0 +1,15 @@
+{
+  "name": "ziu-eslint-config",
+  "version": "1.0.0",
+  "description": "ziu eslint配置",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bugszhou.github.com:bugszhou/ziu-eslint-config.git"
+  },
+  "author": "bugszhou",
+  "license": "MIT"
+}
